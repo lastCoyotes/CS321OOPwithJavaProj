@@ -1,4 +1,4 @@
-# CS321OOPwithJavaProj
+# CS OOP Project 2
 Project 2 for CS 321 - Object Oriented Programming with Java
 Reupload in 2025 of a class project I did in Spring 2020.
 Demonstrating OOP principles through the premise of a simple medieval combat simulator akin to a classic RPG.
